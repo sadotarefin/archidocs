@@ -7,6 +7,7 @@
 | Neo4j     | Graph      | N/A   |
 
 NoSQL databases are ideal in the following scenarios:
+
 **Super-Low Latency Requirements:**
 If your application requires super-fast response times, NoSQL databases like Redis are ideal. Redis is an in-memory key-value store known for sub-millisecond latency, making it perfect for caching, real-time analytics, leaderboards, and session management.
 
