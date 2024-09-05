@@ -1,3 +1,3 @@
-| Attempt | #1    | #2    |
+| DB name | #Type    | #Comment    |
 | :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Cassandra | 301   | 283   |
