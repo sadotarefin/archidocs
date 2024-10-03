@@ -1,0 +1,51 @@
+TOGAF ADM Phases Explained:
+Preliminary Phase:
+
+Purpose: Identify who will do the work and define essential architectural principles and scope.
+Adaptation: Architects tweak TOGAF to fit the specific needs of the project.
+
+Phase A: Architecture Vision:
+
+Business Request: The business formally requests architecture work, like a new point-of-sale system.
+Goals and Scope: Define business goals and what is in and out of scope. For example, changes to integrated systems might be out of scope.
+Output: An architectural statement of work and final approval from executive management.
+
+Phase B: Business Architecture:
+
+Current and Target States: Define the current and target business architectures.
+Impact on Business: Model how business functions will change. For example, changes in inventory ordering or distribution logistics.
+Output: A plan for how the business will adapt to the new system.
+
+Phase C: Information Systems Architectures:
+
+Data and Application Domains: Model changes needed in data and application architectures.
+Integration: Document how the new system will integrate with existing systems.
+Output: A generalized model of changes needed for the new system.
+
+Phase D: Technology Architecture:
+
+Technical Details: Define specific technical details like database platforms and integration protocols.
+Blueprints: Create blueprints for physical and logical implementation.
+Output: A comprehensive technical architecture model.
+
+Phase E: Opportunities and Solutions:
+
+Review and Finalize: Review all work done so far and make final decisions on outstanding choices.
+Output: Implementation and migration strategies and a broadly defined implementation plan.
+
+Phase F: Migration Planning:
+
+Detailed Plan: Break down work efforts into prioritized sub-projects.
+Critical Path: Define the sequence of dependent events.
+Output: A detailed implementation plan.
+
+Phase G: Implementation Governance:
+
+Oversight: Oversee the building of the solution, ensuring alignment with the design.
+Documentation: Document and approve design changes if needed.
+Output: The completed system, integrated and rolled out.
+
+Phase H: Architecture Change Management:
+
+Ongoing Requirements: Monitor and govern incremental changes for the lifetime of the system.
+New Iterations: Major changes may require a new iteration of the ADM.
